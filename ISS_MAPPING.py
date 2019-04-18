@@ -65,8 +65,8 @@ iss.setheading(90)
 iss.penup()
 iss.goto(lon, lat)
 
-print("Program using API's that tells you the next passover time of the ISS")
-print('--------------------------------------------------------------------')
+print("Program using API's that tells you the next passover time of the ISS (MUST HAVE INTERNET CONNECTION)")
+print('----------------------------------------------------------------------------------------------------')
 
 # SPACE CENTER: USER
 place = input('What is your city name: ')
